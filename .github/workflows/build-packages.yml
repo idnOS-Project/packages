@@ -27,7 +27,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v3.1.1
         with:
-          name: base-files
+          name: base-files_11.1+deb11u5idnos1-1_amd64.deb
 
           # todo: dont hardcode this
           path: base-files/base-files_11.1+deb11u5idnos1-1_amd64.deb
