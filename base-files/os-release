@@ -1,0 +1,8 @@
+PRETTY_NAME="idnOS GNU/Linux 1 (tangguh)"
+NAME="idnOS GNU/Linux"
+VERSION_ID="1"
+VERSION="1 (tangguh)"
+VERSION_CODENAME=tangguh
+ID=idnos
+HOME_URL="https://github.com/idnOS"
+BUG_REPORT_URL="https://github.com/idnOS/repo/issues"
